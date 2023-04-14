@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BasicsPlus</string>
+<!--ArtSpaceApp-->
+    <string name="mountain">Mountain</string>
+    <string name="mountain_description">Beautiful landscape with snow-capped mountain</string>
+    <string name="ancient_tree">Ancient Tree</string>
+    <string name="ancient_tree_description">Ancient Tree from Hobbit?</string>
+    <string name="cartoons_river">Cartoon\'s river</string>
+    <string name="cartoons_river_description">Beautiful Curly River Against Sundown</string>
+</resources>
