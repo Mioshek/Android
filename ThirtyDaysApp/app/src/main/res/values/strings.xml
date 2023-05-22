@@ -1,0 +1,65 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="MissingTranslation">ThirtyDaysApp</string>
+<!--    activities-->
+    <string name="activity_1">Write a thank-you note to someone who has helped you recently.</string>
+    <string name="activity_2">Take a 15-minute walk around your neighborhood.</string>
+    <string name="activity_3">Declutter your desk or workspace.</string>
+    <string name="activity_4">Read a chapter from a book you\'ve been meaning to finish.</string>
+    <string name="activity_5">Call a friend or family member you haven\'t spoken to in a while.</string>
+    <string name="activity_6">Try a new recipe and cook yourself a nice meal.</string>
+    <string name="activity_7">Organize your closet and donate clothes you no longer wear.</string>
+    <string name="activity_8">Write down three goals you want to achieve this month.</string>
+    <string name="activity_9">Clean out your email inbox and unsubscribe from unnecessary newsletters.</string>
+    <string name="activity_10" tools:ignore="MissingTranslation">Research and plan a weekend getaway or day trip.</string>
+    <string name="activity_11">Start a journal and write down your thoughts and reflections.</string>
+    <string name="activity_12">Learn a new word and try to use it in a conversation.</string>
+    <string name="activity_13">Create a playlist of your favorite songs and listen to it.</string>
+    <string name="activity_14">Do a 10-minute meditation or breathing exercise.</string>
+    <string name="activity_15">Take a break from social media for an hour and do something offline.</string>
+    <string name="activity_16">Write a list of things you\'re grateful for.</string>
+    <string name="activity_17">Try a new hobby or activity you\'ve been curious about.</string>
+    <string name="activity_18">Write a short story or poem.</string>
+    <string name="activity_19">Do a random act of kindness for someone you know or a stranger.</string>
+    <string name="activity_20">Research and plan a new workout routine.</string>
+    <string name="activity_21">Take a power nap or rest for 20 minutes.</string>
+    <string name="activity_22">Learn a new dance move or try a new exercise routine.</string>
+    <string name="activity_23">Watch a TED Talk or educational video on a topic that interests you.</string>
+    <string name="activity_24">Write down your priorities for the week and create a schedule.</string>
+    <string name="activity_25">Practice a musical instrument or learn a new song.</string>
+    <string name="activity_26">Visit a local museum or art gallery.</string>
+    <string name="activity_27">Volunteer for a cause or organization you care about.</string>
+    <string name="activity_28">Do a puzzle or play a brain-teasing game.</string>
+    <string name="activity_29">Take a digital detox and spend time outdoors.</string>
+    <string name="activity_30">Write down your favorite quotes and create a collage or display.</string>
+<!--explanations-->
+    <string name="explanation_1">Writing a thank-you note helps you express gratitude and strengthens your relationships by showing appreciation for someone\'s help.</string>
+    <string name="explanation_2">Taking a walk improves your physical health, boosts your mood, and provides an opportunity for fresh air and relaxation.</string>
+    <string name="explanation_3">Decluttering your workspace promotes productivity and reduces stress by creating a clean and organized environment.</string>
+    <string name="explanation_4">Reading stimulates your mind, enhances knowledge, and can provide a much-needed escape from daily routines.</string>
+    <string name="explanation_5">Calling a friend or family member fosters social connections, strengthens relationships, and brings joy to both parties.</string>
+    <string name="explanation_6">Trying a new recipe allows you to explore your culinary skills, enjoy delicious food, and adds variety to your meals.</string>
+    <string name="explanation_7">Organizing your closet helps you create space, identify clothing you no longer need, and potentially make a positive impact through donations.</string>
+    <string name="explanation_8">Writing down your goals brings clarity and focus to your aspirations, making them more achievable and providing a sense of purpose.</string>
+    <string name="explanation_9">Cleaning out your email inbox reduces digital clutter, increases productivity, and helps you stay on top of important messages.</string>
+    <string name="explanation_10">Planning a getaway or day trip gives you something to look forward to, promotes relaxation, and allows for exploration and adventure.</string>
+    <string name="explanation_11">Journaling allows for self-reflection, emotional release, and the opportunity to track personal growth and experiences.</string>
+    <string name="explanation_12">Learning a new word expands your vocabulary and communication skills, enabling you to express yourself more effectively.</string>
+    <string name="explanation_13">Creating a playlist of favorite songs enhances mood, evokes emotions, and can serve as a source of inspiration or relaxation.</string>
+    <string name="explanation_14">Engaging in meditation or breathing exercises helps reduce stress, promotes mindfulness, and enhances overall well-being.</string>
+    <string name="explanation_15">Taking a break from social media allows you to disconnect, focus on the present moment, and engage in offline activities or meaningful interactions.</string>
+    <string name="explanation_16">Practicing gratitude by listing things you\'re grateful for fosters a positive mindset, boosts happiness, and promotes a sense of contentment.</string>
+    <string name="explanation_17">Trying a new hobby or activity stimulates creativity, expands your interests, and can lead to personal growth and fulfillment.</string>
+    <string name="explanation_18">Writing a short story or poem allows for creative expression, fosters imagination, and provides a platform for self-reflection.</string>
+    <string name="explanation_19">Performing random acts of kindness spreads positivity, brightens someone\'s day, and contributes to a sense of community.</string>
+    <string name="explanation_20">Researching and planning a new workout routine promotes physical fitness, helps you set fitness goals, and enhances overall health.</string>
+    <string name="explanation_21">Taking a power nap or rest revitalizes your energy, improves focus, and increases productivity.</string>
+    <string name="explanation_22">Learning a new dance move or exercise routine enhances coordination, promotes physical fitness, and adds variety to your workout routine.</string>
+    <string name="explanation_23">Watching TED Talks or educational videos expands knowledge, inspires new ideas, and encourages personal and intellectual growth.</string>
+    <string name="explanation_24">Creating a schedule and prioritizing tasks helps manage time effectively, increases productivity, and reduces stress.</string>
+    <string name="explanation_25">Practicing a musical instrument stimulates creativity, enhances cognitive abilities, and brings joy through the power of music.</string>
+    <string name="explanation_26">Visiting a museum or art gallery exposes you to culture, sparks creativity, and provides an opportunity for intellectual and aesthetic appreciation.</string>
+    <string name="explanation_27">Volunteering allows you to give back to the community, make a positive impact, and develop a sense of fulfillment through service.</string>
+    <string name="explanation_28">Engaging in puzzles or brain-teasing games enhances cognitive abilities, improves problem-solving skills, and provides entertainment.</string>
+    <string name="explanation_29">Spending time outdoors promotes physical and mental well-being, connects you with nature, and allows for relaxation and rejuvenation.</string>
+    <string name="explanation_30">Creating a collage or display of favorite quotes inspires positivity, serves as a reminder of meaningful words, and adds aesthetic value to your space.</string>
+</resources>
