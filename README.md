@@ -12,7 +12,7 @@
 <h1>Current Progress</h1>
 <ul>
     <li>
-        <h2>Android Basics with Compose ⏳</h2>
+        <h2><a href="https://github.com/Mioshek/AndroidLearning/tree/main/AndroidBasicswithCompose">Android Basics with Compose</a> ⏳</h2>
         <ol>
             <li>
                 <h3>Your First Android App ✔️</h3>
