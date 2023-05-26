@@ -14,6 +14,7 @@
   ~ limitations under the License.
   -->
 <resources>
+<!--WoofApp-->
     <string name="app_name">Woof</string>
     <string name="dog_name_1">Koda</string>
     <string name="dog_name_2">Lola</string>
@@ -36,4 +37,18 @@
     <string name="about">About:</string>
     <string name="years_old">%d years old</string>
     <string name="expand_button_content_description">See more or less information about a dog.</string>
+<!--SuperHeroApp-->
+    <string name="app_name_2">Superheroes</string>
+    <string name="superhero_name_1">Nick the Night and Day</string>
+    <string name="superhero_name_2">Reality Protector</string>
+    <string name="superhero_name_3">Andre the Giant</string>
+    <string name="superhero_name_4">Benjamin the Brave</string>
+    <string name="superhero_name_5">Magnificent Maru</string>
+    <string name="superhero_name_6">Dynamic Yasmine</string>
+    <string name="superhero_description_1">The Jetpack Hero</string>
+    <string name="superhero_description_2">Understands the absolute truth</string>
+    <string name="superhero_description_3">Mimics the light and night to blend in</string>
+    <string name="superhero_description_4">Harnesses the power of canary to develop bravely</string>
+    <string name="superhero_description_5">Effortlessly glides in to save the day</string>
+    <string name="superhero_description_6">Ability to shift to any form and energize</string>
 </resources>
