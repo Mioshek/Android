@@ -187,7 +187,7 @@ private fun FinalScoreDialog(
             
         },
         title = { Text(text = stringResource(R.string.congratulations))},
-        text = { Text(text = stringResource(R.string.you_scored, score)) },
+        text = { Text(text = stringResource(R.string.you_scored) + score) },
         modifier = modifier,
         dismissButton ={
             TextButton(onClick = { activity.finish() }) {

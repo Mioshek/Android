@@ -23,6 +23,7 @@ class GameViewModel : ViewModel() {
         currentWord = words.random()
         words.remove(currentWord)
         usedWords.add(currentWord)
+        _uiState.value.unscrambledWord = currentWord
         return shuffleCurrentWord(currentWord)
     }
 

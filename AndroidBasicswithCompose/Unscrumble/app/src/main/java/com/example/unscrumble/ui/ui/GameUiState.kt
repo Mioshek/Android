@@ -5,6 +5,7 @@ const val SCORE_INCREASE = 20
 
 data class GameUiState (
 //    val currentWord: Word = Word("", null, false,"")
+    var unscrambledWord: String = "",
     val currentScrambledWord: String = "",
     val currentWordCount: Int = 1,
     val score: Int = 0,
